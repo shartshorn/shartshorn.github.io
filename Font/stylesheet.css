@@ -1,0 +1,185 @@
+
+
+.R{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	border-radius: 50%;
+
+	
+}
+
+.A{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 200px;
+	left: 400px;
+	border-radius: 50%;
+
+
+}
+
+.N{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 200px;
+	left: 600px;
+	border-radius: 50%;
+
+}
+.G{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 200px;
+	left: 800px;
+	border-radius: 50%;
+
+}
+.E{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 200px;
+	left: 1000px;
+	border-radius: 50%;
+
+}
+.S{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 200px;
+	left: 1200px;
+	border-radius: 50%;
+
+}
+.R1{
+	background-color: white;
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	top: 240px;
+	left: 285px;
+	border-radius: 50%;
+}
+	
+.R2{
+	background-color: white;
+	width: 30px;
+	height: 75px;
+	position: absolute;
+	top: 320px;
+	left: 260px;
+}
+
+.A1{
+	background-color: white;
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	top: 240px;
+	left: 458px;
+	border-radius: 50%;
+}
+
+.A2{
+	background-color: white;
+	width: 30px;
+	height: 75px;
+	position: absolute;
+	top: 320px;
+	left: 460px;
+}
+
+.N1{
+	background-color: white;
+	width: 30px;
+	height: 75px;
+	position: absolute;
+	top: 275px;
+	left: 640px;
+}
+
+.N2{
+	background-color: white;
+	width: 30px;
+	height: 75px;
+	position: absolute;
+	top: 200px;
+	left: 680px;
+}
+.G1{
+	background-color: white;
+	width: 75px;
+	height: 30px;
+	position: absolute;
+	top: 235px;
+	left: 880px;
+}
+.G2{
+	background-color: white;
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	top: 300px;
+	left: 857px;
+	border-radius: 50%;
+}
+.E1{
+	background-color: white;
+	width: 75px;
+	height: 30px;
+	position: absolute;
+	top: 235px;
+	left: 1080px;
+	
+}
+
+.E2{
+	background-color: white;
+	width: 75px;
+	height: 30px;
+	position: absolute;
+	top: 285px;
+	left: 1080px;
+	
+}
+.S1{
+	background-color: white;
+	width: 75px;
+	height: 30px;
+	position: absolute;
+	top: 285px;
+	left: 1195px;
+}
+.S2{
+	background-color: white;
+	width: 75px;
+	height: 30px;
+	position: absolute;
+	top: 235px;
+	left: 1275px;
+}
+
+.underline{
+	background-color: red;
+	width: 1150px;
+	height: 20px;
+	position: absolute;
+	top: 375px;
+	left: 200px;
+	box-shadow: 10px 10px 10px grey;
+  	
+}
+
