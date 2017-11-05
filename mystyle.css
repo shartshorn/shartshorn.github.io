@@ -1,0 +1,291 @@
+@charset "UTF-8";
+div{
+  width: 1px;
+  height: 600px;
+  position: absolute;
+}
+.line1 {
+  top: 50px;
+  left: 375px; 
+  background-color: black;
+}
+div {
+  width: 1px;
+  height: 600px;
+  position: absolute;
+}
+.line2 {
+  top: 350px;
+  left: 500px; 
+  background-color: white;
+}
+.line3 {
+  top: 50px;
+  left: 500px; 
+  background-color: white;
+  width: 1px;
+  height: 1650px;
+  position: absolute;
+}
+.line4{
+  top: 2054px;
+  left: 854px; 
+  background-color: white;
+  width: 1px;
+  height: 300px;
+  position: absolute;
+}
+
+.line5{
+  top: 1627px;
+  left: 677px; 
+  background-color: white;
+  width: 1px;
+  height: 500px;
+  position: absolute;
+  transform:rotate(135deg);
+}
+
+.line6{
+	top: 2310px;
+    left: 748px; 
+    background-color: white;
+    width: 1px;
+    height: 300px;
+    position: absolute;
+    transform:rotate(225deg);
+
+}
+
+.line7{
+	top: 2655px;
+    left: 500px; 
+    background-color: white;
+    width: 1px;
+    height: 150px;
+    position: absolute;
+    
+}
+
+.line8{
+	top: 2925px;
+    left: 550px; 
+    background-color: white;
+    width: 1px;
+    height: 300px;
+    position: absolute;
+    
+}
+
+.line9{
+	top: 3500px;
+    left: 670px; 
+    background-color: white;
+    width: 1px;
+    height: 200px;
+    position: absolute;
+    transform:rotate(135deg);
+    
+}
+.queens{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	position: absolute;
+	  top: 1010px;
+	  left: 175px;
+	  width: 300px;
+	  font-size: 20px;
+	  line-height: 21px;
+	  letter-spacing: 5px;
+	  text-align: right;
+	  height: 100%;
+	color: white;
+}
+.queens2{
+	font-size: 180px;
+	margin-top: 700px;
+	margin-left: 430px;
+	margin-right: 100px;
+	color: white;
+	transform:rotate(90deg);
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+
+
+.bronx{
+      font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	  position: absolute;
+	  top: 2200px;
+	  left: 895px;
+	  width: 300px;
+	  font-size: 20px;
+	  line-height: 21px;
+	  letter-spacing: 5px;
+	  text-align: left;
+	  height: 100%;
+	  color: white;
+
+}
+.boroughs{
+      font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	  position: absolute;
+	  top: 75px;
+	  left: 525px;
+	  width: 300px;
+	  font-size: 15px;
+	  line-height: 15px;
+	  letter-spacing: 4px;
+	  text-align: left;
+	  height: 100%;
+	  color: white;
+
+}
+
+
+.bronx2{
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 120px;
+	    margin-top: 140px;
+	    margin-left: 320px;
+	    margin-right: 100px;
+	    color: white;
+	    position: absolute;
+	    top: 1925px;
+	    left: 575px;
+}
+
+.newyorkcity{
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 60px;
+	    margin-top: 140px;
+	    margin-left: 320px;
+	    margin-right: 25px;
+	    color: white;
+	    position: absolute;
+	    top: 3100px;
+	    left: 225px;
+}
+
+.sheastadium{
+
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 40px;
+		line-height: 40px;
+	    margin-top: 140px;
+	    margin-left: 320px;
+	    margin-right: 100px;
+	    color: white;
+	    position: absolute;
+	    top: 2390px;
+	    left: 150px;
+
+
+}
+
+.bronxzoo{
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman",  serif;
+		font-size: 40px;
+		line-height: 40px;
+	    margin-top: 140px;
+	    margin-left: 320px;
+	    margin-right: 100px;
+	    color: white;
+	    position: absolute;
+	    top: 2655px;
+	    left: 150px;
+
+
+
+}
+
+.bronx2a{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 120px;
+	    margin-top: 140px;
+	    margin-left: 600px;
+	    margin-right: 100px;
+	    color: white;
+	    position: absolute;
+
+}
+
+.landmarks{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	position: absolute;
+	  top: 150px;
+	  left: 175px;
+	  width: 300px;
+	  font-size: 20px;
+	  line-height: 21px;
+	  letter-spacing: 5px;
+	  text-align: center;
+	  height: 100%;
+	  overflow: scroll;
+	  color: white;
+
+}
+
+.brooklyn{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	position: absolute;
+	  top: 300px;
+	  left: 175px;
+	  width: 300px;
+	  font-size: 20px;
+	  line-height: 21px;
+	  letter-spacing: 5px;
+	  text-align: right;
+	  height: 100%;
+	  overflow: scroll;
+	  color: black;
+}
+
+.brooklyna{
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 175px;
+		color: black;
+		top: 0px;
+    	left: 375px; 
+    	position: absolute;
+    	transform:rotate(90deg);
+
+
+
+}
+
+
+p{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	position: absolute;
+	  top: 300px;
+	  left: 175px;
+	  width: 300px;
+	  font-size: 20px;
+	  line-height: 21px;
+	  letter-spacing: 5px;
+	  text-align: center;
+	  height: 100%;
+	  overflow: scroll;
+	  color: white;
+}
+
+
+
+h1, h2{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+h1{
+	font-size: 120px;
+	margin-top: 140px;
+	margin-left: 320px;
+	margin-right: 100px;
+}
+
+h2{
+	color:#9D0A0C;
+	margin-left: 50px;
+	margin-bottom: 0px;	
+	}
+
+
+
