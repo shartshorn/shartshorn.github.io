@@ -1,0 +1,218 @@
+@charset "UTF-8";
+div{
+  width: 1px;
+  height: 600px;
+  position: absolute;
+}
+video{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	max-width: 100%;
+	max-height: 100%;
+	width: auto;
+	height: auto;
+
+
+}
+
+
+
+div {
+  width: 1px;
+  height: 600px;
+  position: absolute;
+}
+
+
+
+.line1{
+  top: 130px;
+  left: 175px; 
+  background-color: white;
+  width: 1px;
+  height: 675px;
+  position: absolute;
+
+}
+.line2{
+  top: 130px;
+  left: 75px; 
+  background-color: white;
+  width: 1px;
+  height: 550px;
+  position: absolute;
+
+}
+
+.line3{
+  top: 130px;
+  left: 75px; 
+  background-color: white;
+  width: 1px;
+  height: 750px;
+  position: absolute;
+
+}
+.line4{
+  top: 130px;
+  left: 150px; 
+  background-color: white;
+  width: 1px;
+  height: 575px;
+  position: absolute;
+
+}
+
+
+
+.comiccollection{
+	font-size: 125px;
+	margin-top: 75px;
+	margin-left: 190px;
+	margin-right: 100px;
+	color: red;
+	transform:rotate(360deg);
+	line-height: 100px;
+	font-family: Helvetica, Arial, sans-serif;
+}	
+
+.c{
+	font-size: 250px;
+	margin-top: 30px;
+	margin-left: 65px;
+	margin-right: 100px;
+	color: red;
+	transform:rotate(360deg);
+	font-family: Helvetica, Arial, sans-serif;
+}
+.theflash{
+      font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	  position: absolute;
+	  top: 125px;
+	  left: 200px;
+	  width: 300px;
+	  font-size: 13px;
+	  line-height: 19px;
+	  letter-spacing: 5px;
+	  text-align: left;
+	  height: 100%;
+	  color: white;
+}
+
+.theflashtoy{
+	position: absolute;
+	font-size: 35px;
+	margin-top: 800px;
+	margin-left: 190px;
+	margin-right: 100px;
+	color: white;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+
+}
+.theflash2{
+	font-size: 65px;
+	margin-top: 25px;
+	margin-left: 190px;
+	margin-right: 100px;
+	color: white;
+	transform:rotate(360deg);
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+
+}
+
+.videotag{
+	font-size: 75px;
+	margin-top: 20px;
+	margin-left: 75px;
+	margin-right: 100px;
+	color: white;
+	transform:rotate(360deg);
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+
+}
+
+.superman2{
+	font-size: 65px;
+	margin-top: 15px;
+	margin-left: 90px;
+	margin-right: 100px;
+	color: white;
+	transform:rotate(360deg);
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+
+}
+.batman2{
+	font-size: 65px;
+	margin-top: 25px;
+	margin-left: 90px;
+	margin-right: 100px;
+	color: white;
+	transform:rotate(360deg);
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+
+}
+
+.superman{
+      font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	  position: absolute;
+	  top: 125px;
+	  left: 100px;
+	  width: 300px;
+	  font-size: 13px;
+	  line-height: 19px;
+	  letter-spacing: 5px;
+	  text-align: left;
+	  height: 100%;
+	  color: white;
+}
+
+.batman{
+      font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	  position: absolute;
+	  top: 125px;
+	  left: 100px;
+	  width: 300px;
+	  font-size: 13px;
+	  line-height: 19px;
+	  letter-spacing: 5px;
+	  text-align: left;
+	  height: 100%;
+	  color: white;
+}
+p{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", Helvetica, Arial, sans-serif;
+	position: absolute;
+	  top: 300px;
+	  left: 175px;
+	  width: 300px;
+	  font-size: 20px;
+	  line-height: 21px;
+	  letter-spacing: 5px;
+	  text-align: center;
+	  height: 100%;
+	  overflow: scroll;
+	  color: white;
+}
+
+
+
+h1, h2{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+h1{
+	font-size: 120px;
+	margin-top: 140px;
+	margin-left: 320px;
+	margin-right: 100px;
+}
+
+h2{
+	color:#9D0A0C;
+	margin-left: 50px;
+	margin-bottom: 0px;	
+	}
+
+
+
